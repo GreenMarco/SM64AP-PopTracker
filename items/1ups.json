@@ -1,0 +1,189 @@
+[
+	{
+		"name": "Level 1ups",
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "img/varios/1up.png",
+				"codes": "1up"
+			}, {
+				"img": "1up.png"
+			}
+		]
+	},
+
+	{
+		"name": "CCM: 1Up Block Near Snowman",
+		"type": "toggle",
+		"img": "img/stars/Block.png",
+		"codes": "ccm1up1"
+	},
+	{
+		"name": "CCM: 1Up Block Ice Pillar",
+		"type": "toggle",
+		"img": "img/stars/Block.png",
+		"codes": "ccm1up2"
+	},
+	{
+		"name": "CCM: 1Up Block Secret Slide",
+		"type": "toggle",
+		"img": "img/stars/Block.png",
+		"codes": "ccm1up3"
+	},
+	{
+		"name": "BBH: 1Up Block Top of Mansion",
+		"type": "toggle",
+		"img": "img/stars/Block.png",
+		"codes": "bbh1up"
+	},
+	{
+		"name": "HMC: 1Up Block above Pit",
+		"type": "toggle",
+		"img": "img/stars/Block.png",
+		"codes": "hmc1up1"
+	},
+	{
+		"name": "HMC: 1Up Block Past Rolling Rocks",
+		"type": "toggle",
+		"img": "img/stars/Block.png",
+		"codes": "hmc1up2"
+	},
+	{
+		"name": "SSL: 1Up Block Outside Pyramid",
+		"type": "toggle",
+		"img": "img/stars/Block.png",
+		"codes": "ssl1up1"
+	},
+	{
+		"name": "SSL: 1Up Block Pyramid Left Path",
+		"type": "toggle",
+		"img": "img/stars/Block.png",
+		"codes": "ssl1up2"
+	},
+	{
+		"name": "SSL: 1Up Block Pyramid Back",
+		"type": "toggle",
+		"img": "img/stars/Block.png",
+		"codes": "ssl1up3"
+	},
+	{
+		"name": "SL: 1Up Block Near Moneybags",
+		"type": "toggle",
+		"img": "img/stars/Block.png",
+		"codes": "sl1up1"
+	},
+	{
+		"name": "SL: 1Up Block inside Igloo",
+		"type": "toggle",
+		"img": "img/stars/Block.png",
+		"codes": "sl1up2"
+	},
+	{
+		"name": "WDW: 1Up Block in Downtown",
+		"type": "toggle",
+		"img": "img/stars/Block.png",
+		"codes": "wdw1up"
+	},
+	{
+		"name": "TTM: 1Up Block on Red Mushroom",
+		"type": "toggle",
+		"img": "img/stars/Block.png",
+		"codes": "ttm1up"
+	},
+	{
+		"name": "THI: 1Up Block THI Small near Start",
+		"type": "toggle",
+		"img": "img/stars/Block.png",
+		"codes": "thi1up1"
+	},
+	{
+		"name": "THI: 1Up Block THI Large near Start",
+		"type": "toggle",
+		"img": "img/stars/Block.png",
+		"codes": "thi1up2"
+	},
+	{
+		"name": "THI: 1Up Block Windy Area",
+		"type": "toggle",
+		"img": "img/stars/Block.png",
+		"codes": "thi1up3"
+	},
+	{
+		"name": "TTC: 1Up Block Midway Up",
+		"type": "toggle",
+		"img": "img/stars/Block.png",
+		"codes": "ttc1up1"
+	},
+	{
+		"name": "TTC: 1Up Block at the Top",
+		"type": "toggle",
+		"img": "img/stars/Block.png",
+		"codes": "ttc1up2"
+	},
+	{
+		"name": "RR: 1Up Block Top of Red Coin Maze",
+		"type": "toggle",
+		"img": "img/stars/Block.png",
+		"codes": "rr1up1"
+	},
+	{
+		"name": "RR: 1Up Block Under Fly Guy",
+		"type": "toggle",
+		"img": "img/stars/Block.png",
+		"codes": "rr1up2"
+	},
+	{
+		"name": "RR: 1Up Block On House in the Sky",
+		"type": "toggle",
+		"img": "img/stars/Block.png",
+		"codes": "rr1up3"
+	},
+	{
+		"name": "Bowser in the Dark World 1Up Block on Tower",
+		"type": "toggle",
+		"img": "img/stars/Block.png",
+		"codes": "BitDWK1up1"
+	},
+	{
+		"name": "Bowser in the Dark World 1Up Block near Goombas",
+		"type": "toggle",
+		"img": "img/stars/Block.png",
+		"codes": "BitDWK1up2"
+	},
+	{
+		"name": "Bowser in the Fire Sea 1Up Swaying Stairs",
+		"type": "toggle",
+		"img": "img/stars/Block.png",
+		"codes": "BitFSK1up1"
+	},
+	{
+		"name": "Bowser in the Fire Sea 1Up Block Near Poles",
+		"type": "toggle",
+		"img": "img/stars/Block.png",
+		"codes": "BitFSK1up2"
+	},
+	{
+		"name": "Bowser in the Sky 1Up Block",
+		"type": "toggle",
+		"img": "img/stars/Block.png",
+		"codes": "BitS1up"
+	},
+	{
+		"name": "Cavern of the Metal Cap 1Up Block",
+		"type": "toggle",
+		"img": "img/stars/Block.png",
+		"codes": "CotMC1up"
+	},
+	{
+		"name": "Vanish Cap Under the Moat 1Up Block",
+		"type": "toggle",
+		"img": "img/stars/Block.png",
+		"codes": "VCUtM1up"
+	},
+	{
+		"name": "Wing Mario Over the Rainbow 1Up Block",
+		"type": "toggle",
+		"img": "img/stars/Block.png",
+		"codes": "WMOtR1up"
+	}
+]

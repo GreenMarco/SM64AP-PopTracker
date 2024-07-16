@@ -1,0 +1,44 @@
+[
+    { 	
+        "name": "100 Coins",
+        "type": "toggle",
+        "img": "img/settings/Coin.png",
+        "codes": "100coins"
+    },
+	{
+        "name": "1-Up Boxes",
+        "type": "toggle",
+        "img": "img/settings/1-up.png",
+        "codes": "1upbox"
+    },
+	{
+        "name": "Bob-Omb Buddies",
+        "type": "toggle",
+        "img": "img/settings/pinkbomb.png",
+        "codes": "pinkbomb"
+    },
+	{
+        "name": "Strict Cannon Requirements",
+        "type": "toggle",
+        "img": "img/varios/Cannon.png",
+        "codes": "cannons"
+    },
+	{
+        "name": "Strict Cap Requirements",
+        "type": "toggle",
+        "img": "img/boxes/Block.png",
+        "codes": "caps"
+    },
+	{
+        "name": "Strict Move Requirements",
+        "type": "toggle",
+        "img": "img/mario/Side-Flip.png",
+        "codes": "moves"
+    },
+	{
+        "name": "Area Randomization",
+        "type": "toggle",
+		"img": "img/paintings/Unknown Painting.png",
+        "codes": "area"
+    }
+]

@@ -1,0 +1,197 @@
+{
+    "tracker_items": {
+        "type": "array",
+        "orientation": "vertical",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "center",
+                "item_size": "5",
+				"item_margin": "1,1",
+                "rows": [
+                    [
+						"",
+						"powerstar",
+                        "basementkey",
+                        "topfloorkey"
+                    ],
+					[
+						"",
+						"wc",
+						"vc",
+						"mc"
+					]
+					
+                ]
+            }
+        ]
+    },
+	"tracker_moves":{
+		"type": "array",
+		"orientation": "horizontal",
+		"content": [
+			{
+				"type": "itemgrid",
+                "h_alignment": "center",
+				"item_margin": "1,1",
+                "item_size": "5",
+				"rows":[
+					[
+						"tj",
+						"lj",
+						"bf",
+						"sf",
+						"wk"
+					],
+					[
+						"dv",
+						"gp",
+						"kk",
+						"cl",
+						"lg"
+					]
+				]
+			}
+		]
+	},
+	"tracker_cannons": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "center",
+                "item_margin": "5,5",
+                "item_size": "5",
+                "rows": [
+							[
+								"bobc",
+								"wfc",
+								"jrbc",
+								"ccmc",
+								"sslc"
+							],
+							[
+								"slc",
+								"wdwc",
+								"ttmc",
+								"thic",
+								"rrc"
+							]
+						]
+			}
+		]	
+	},
+"tracker_settings":{
+		"type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "center",
+                "item_margin": "5,5",
+                "item_size": "5",
+                "rows": [
+							[
+								"100coins",
+								"1upbox",
+								"pinkbomb"
+							],
+							[
+								"cannons",
+								"caps",
+								"moves"
+							],
+							[
+								"area"
+							]
+						]
+			}
+		]
+	},
+
+
+	"var_vertical_tracker_items": {
+        "type": "array",
+		"orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_size": "5",
+				"item_margin": "5,5",
+                "rows": [
+                    [
+						"powerstar",
+                        "basementkey",
+                        "topfloorkey"
+                    ],
+					[
+						"wc",
+						"vc",
+						"mc"
+					]
+                ]
+            }
+        ]
+    },
+
+	"var_vertical_tracker_moves":{
+		"type": "array",
+		"orientation": "horizontal",
+		"content": [
+			{
+				"type": "itemgrid",
+                "item_margin": "5,5",
+                "item_size": "5",
+				"rows":[
+					[
+						"tj",
+						"lj",
+						"bf"
+						
+					],
+                    [
+                        "sf",
+						"wk",
+                        "dv"
+                    ],
+					[
+						"gp",
+						"kk",
+						"cl"
+						
+					],
+					[
+                        "lg"
+                    ]
+                    
+				]
+			}
+		]
+	},
+	
+	"bob":{
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "item",
+				"orientation": "horizontal",
+				"h_alignment": "center",
+				"item_margin": "5,5",
+				"item_size": "5",
+            "row":[
+							[
+								"bobP"
+							],
+							[
+								"bobb",
+								"bobc"
+							]
+            ]
+                
+                
+            }
+        ]
+    }
+}

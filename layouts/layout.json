@@ -1,0 +1,29 @@
+{
+    "tracker_default": {
+        "type": "container",
+        "background": "#000000",
+        "content": {
+            "type": "dock",
+            "content": [
+            {        
+                "type": "group",
+                "header": "Items",
+                "dock": "top",
+                "content": {
+                    "type": "layout",
+                    "key": "tracker_items"
+                }
+            },
+            {
+                "type": "group",
+                "header": "Moves",
+                "dock": "top",
+                "content": {
+                    "type": "layout",
+                    "key": "tracker_moves"
+                }
+            }
+            ]
+        }
+    }
+}

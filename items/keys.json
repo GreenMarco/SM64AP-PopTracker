@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Basement Key",
+		"type": "toggle",
+		"img": "images/Key.png",
+		"codes": "BitDWK"
+	},	
+	{
+		"name": "Second Floor Key",
+		"type": "toggle",
+		"img": "images/Key.png",
+		"codes": "BitFSK"
+	}
+]

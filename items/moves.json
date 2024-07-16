@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Triple Jump",
+        "type": "toggle",
+        "img": "img/mario/Triple-Jump.png",
+        "codes": "tj"
+    },
+    {
+        "name": "Long Jump",
+        "type": "toggle",
+        "img": "img/mario/Long-Jump.png",
+        "codes": "lj"
+    },
+    {
+        "name": "Backflip",
+        "type": "toggle",
+        "img": "img/mario/Back-Flip.png",
+        "codes": "bf"
+	},
+    {
+        "name": "Side Flip",
+        "type": "toggle",
+        "img": "img/mario/Side-Flip.png",
+        "codes": "sf"
+    },
+    {
+        "name": "Wall Kick",
+        "type": "toggle",
+        "img": "img/mario/Wall-Kick.png",
+        "codes": "wk"
+    },
+    {
+        "name": "Dive",
+        "type": "toggle",
+        "img": "img/mario/Dive.png",
+        "codes": "dv"
+    },
+    {
+        "name": "Ground Pound",
+        "type": "toggle",
+        "img": "img/mario/Ground-Pound.png",
+        "codes": "gp"
+    },
+    {
+        "name": "Kick",
+        "type": "toggle",
+        "img": "img/mario/Kick.png",
+        "codes": "kk"
+    },
+    {
+        "name": "Climb",
+        "type": "toggle",
+        "img": "img/mario/Climb.png",
+        "codes": "cl"
+    },
+    {
+        "name": "Ledge Grab",
+        "type": "toggle",
+        "img": "img/mario/Ledge-Grab.png",
+        "codes": "lg"
+    }
+]

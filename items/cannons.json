@@ -1,0 +1,62 @@
+[
+    { 
+        "name": "Cannon Unlock BoB",
+        "type": "toggle",
+        "img": "img/varios/Cannon.png",
+        "codes": "bobc"
+    },
+    {
+        "name": "Cannon Unlock WF",
+        "type": "toggle",
+        "img": "img/varios/Cannon.png",
+        "codes": "wfc"
+    },
+	{
+        "name": "Cannon Unlock JRB",
+        "type": "toggle",
+        "img": "img/varios/Cannon.png",
+        "codes": "jrbc"
+    },
+	{
+        "name": "Cannon Unlock CCM",
+        "type": "toggle",
+        "img": "img/varios/Cannon.png",
+        "codes": "ccmc"
+    },
+	{
+        "name": "Cannon Unlock SSL",
+        "type": "toggle",
+        "img": "img/varios/Cannon.png",
+        "codes": "sslc"
+    },
+	{
+        "name": "Cannon Unlock SL",
+        "type": "toggle",
+        "img": "img/varios/Cannon.png",
+        "codes": "slc"
+    },
+	{
+        "name": "Cannon Unlock WDW",
+        "type": "toggle",
+        "img": "img/varios/Cannon.png",
+        "codes": "wdwc"
+    },
+	{
+        "name": "Cannon Unlock TTM",
+        "type": "toggle",
+        "img": "img/varios/Cannon.png",
+        "codes": "ttmc"
+    },
+	{
+        "name": "Cannon Unlock THI",
+        "type": "toggle",
+        "img": "img/varios/Cannon.png",
+        "codes": "thic"
+    },
+	{
+        "name": "Cannon Unlock RR",
+        "type": "toggle",
+        "img": "img/varios/Cannon.png",
+        "codes": "rrc"
+    }
+]

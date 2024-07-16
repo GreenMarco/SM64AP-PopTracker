@@ -1,0 +1,21 @@
+{
+    "tracker_broadcast": {
+    "type": "container",
+    "background":"#ff00bf",
+    "content": [
+        {
+            "type":"dock",
+            "content":[{
+                "type": "layout",
+                "dock": "top",
+                "key": "tracker_items"
+            },
+            {
+                "type": "layout",
+                "dock": "top",
+                "key": "tracker_moves"            
+            }]
+        }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "tracker_default": {
+        "type": "container",
+        "background": "#000000",
+        "content": {
+            "type": "dock",
+            "content": [
+                {    
+                    "type": "group",
+                    "header": "Items",
+                    "dock": "top",
+                    "content": {
+                        "type": "layout",
+                        "key": "var_vertical_tracker_items"
+                    }
+                },
+                {
+                    "type": "group",
+                    "header": "Moves",
+                    "dock": "center",
+                    "margin": "0,0,3,0",
+                    "content": {
+                        "type": "layout",
+                        "h_alignment": "center",
+                        "v_alignment": "center",
+                        "key": "var_vertical_tracker_moves"
+                }
+                }
+                
+            ]
+        }
+    }
+}

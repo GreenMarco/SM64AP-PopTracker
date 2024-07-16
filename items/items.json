@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Power Star",
+        "type": "consumable",
+        "img": "img/varios/PowerStarModelSM64.png",
+        "codes": "powerstar",
+        "max_quantity": 120,
+        "overlay_font_size": 25,
+        "font":"MARIO Font v3_2 Solid"
+    },
+	{
+        "name": "Basement Key",
+        "type": "toggle",
+        "img": "img/settings/Key.png",
+        "codes": "basementkey"
+    },
+    {
+        "name": "Second Floor Key",
+        "type": "toggle",
+        "img": "img/settings/Key.png",
+        "codes": "topfloorkey"
+    },
+	{
+        "name": "Progressive Key",
+        "type": "progressive",
+        "codes": "progkey",
+		"stages": [
+				{
+					"img": "img/settings/progkeybasement.png",
+					"disabled_img": "img/settings/Key.png",
+					"codes": "progkey_1",
+					"inherit_codes": true
+				},
+				{
+					"img": "img/settings/Key.png",
+					"codes": "progkey_2",
+					"inherit_codes": true
+				}
+			]				
+    },
+
+
+
+    {
+        "name": "Wing Cap",
+        "type": "toggle",
+        "loop": "true",
+        "img": "img/boxes/WingCap.png",
+        "codes": "wc"
+    },
+    {
+        "name": "Metal Cap",
+        "type": "toggle",
+        "img": "img/boxes/MetalCap.png",
+        "codes": "mc"
+    },
+    {
+        "name": "Vanish Cap",
+        "type": "toggle",
+        "img": "img/boxes/VanishCap.png",
+        "codes": "vc"
+    }
+
+
+]

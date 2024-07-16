@@ -1,0 +1,20 @@
+[
+	{
+		"name": "Wing Cap Switch",
+		"type": "toggle",
+		"img": "images/switches/Wing Cap Switch.png",
+		"codes": "wcS"
+	},
+	{
+		"name": "Metal Cap Switch",
+		"type": "toggle",
+		"img": "images/switches/Metal Cap Switch.png",
+		"codes": "mcS"
+	},
+	{
+		"name": "Vanish Cap Switch",
+		"type": "toggle",
+		"img": "images/switches/Vanish Cap Switch.png",
+		"codes": "vcS"
+	}
+]

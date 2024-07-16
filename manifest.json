@@ -1,0 +1,25 @@
+{
+    "name": "Super Mario 64 AP Tracker",
+    "game_name": "Super Mario 64",
+    "package_version": "0.1",
+    "package_uid": "sm64ap_moverando",
+    "author": "GreenMarco",
+    "variants": {
+        "standard": {
+            "display_name": "Horizontal",
+            "flags": ["ap"]
+        },
+        "var_vertical": {
+            "display_name": "Vertical",
+            "flags": ["ap"]
+        },
+        "zvar_exp": {
+            "display_name": "Experimental",
+            "flags": ["ap"]
+        }
+        
+    },
+    "min_poptracker_version": "0.26.1",
+    "target_poptracker_version": "0.26.1",
+    "versions_url": "https://raw.githubusercontent.com/GreenMarco/SM64-AP-Tracker/main/versions.json"
+}

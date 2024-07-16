@@ -1,0 +1,32 @@
+ITEM_MAPPING = {
+	[3626000] = {"powerstar", "consumable"},
+	[3626178] = {"basementkey", "toggle"},
+	[3626179] = {"topfloorkey", "toggle"},
+	[3626180] = {"progkey", "progressive"},
+	
+	[3626181] = {"wc", "toggle"},
+	[3626182] = {"mc", "toggle"},
+	[3626183] = {"vc", "toggle"},
+	
+	[3626186] = {"tj", "toggle"},
+	[3626187] = {"lj", "toggle"},
+	[3626188] = {"bf", "toggle"},
+	[3626189] = {"sf", "toggle"},
+	[3626190] = {"wk", "toggle"},
+	[3626191] = {"dv", "toggle"},
+	[3626192] = {"gp", "toggle"},
+	[3626193] = {"kk", "toggle"},
+	[3626194] = {"cl", "toggle"},
+	[3626195] = {"lg", "toggle"},
+	
+	[3626200] = {"bobc", "toggle"},
+	[3626201] = {"wfc", "toggle"},
+	[3626202] = {"jrbc", "toggle"},
+	[3626203] = {"ccmc", "toggle"},
+	[3626207] = {"sslc", "toggle"},
+	[3626209] = {"slc", "toggle"},
+	[3626210] = {"wdwc", "toggle"},
+	[3626211] = {"ttmc", "toggle"},
+	[3626212] = {"thic", "toggle"},
+	[3626214] = {"rrc", "toggle"},
+}

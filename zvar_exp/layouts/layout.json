@@ -1,0 +1,167 @@
+{
+    "tracker_default": {
+        "type": "container",
+        "background": "#000000",
+        "content": {
+            "type": "dock",
+            "content": [
+                {
+                    "type": "dock",
+                    "dock": "bottom",
+                    "v_alignment": "stretch",
+                    "content": [
+                        {
+                            "type": "group",
+                            "header": "Items",
+                            "dock": "left",
+                            "content": {
+                                "type": "layout",
+                                "key": "tracker_items"
+                            }
+                        },
+                        {
+                                "type": "group",
+                                "header": "Moves",
+                                "dock": "center",
+                                "margin": "0,0,3,0",
+                                "content": {
+                                    "type": "layout",
+                                    "h_alignment": "center",
+                                    "v_alignment": "center",
+                                    "key": "tracker_moves"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type":"tabbed",
+                    "tabs":[
+                        {
+                            "title": "BOB",
+                            "content":{
+                                "type":"layout",
+                                "key":"bob"
+                            }
+                        },
+                        {
+                            "title": "WF",
+                            "content":{
+                                "type":"layout",
+                                "key":"wf"
+                            }
+                        },
+                        {
+                            "title": "JRB",
+                            "content":{
+                                "type":"layout",
+                                "key":"jrb"
+                            }
+                        },
+                        {
+                            "title": "CCM",
+                            "content":{
+                                "type":"layout",
+                                "key":"ccm"
+                            }
+                        },
+                        {
+                            "title": "BBH",
+                            "content":{
+                                "type":"layout",
+                                "key":"bbh"
+                            }
+                        },
+                        {
+                            "title": "HMC",
+                            "content":{
+                                "type":"layout",
+                                "key":"hmc"
+                            }
+                        },
+                        {
+                            "title": "LLL",
+                            "content":{
+                                "type":"layout",
+                                "key":"lll"
+                            }
+                        },
+                        {
+                            "title": "SSL",
+                            "content":{
+                                "type":"layout",
+                                "key":"ssl"
+                            }
+                        },
+                        {
+                            "title": "DDD",
+                            "content":{
+                                "type":"layout",
+                                "key":"ddd"
+                            }
+                        },
+                        {
+                            "title": "SL",
+                            "content":{
+                                "type":"layout",
+                                "key":"sl"
+                            }
+                        },
+                        {
+                            "title": "WDW",
+                            "content":{
+                                "type":"layout",
+                                "key":"wdw"
+                            }
+                        },
+                        {
+                            "title": "TTM",
+                            "content":{
+                                "type":"layout",
+                                "key":"ttm"
+                            }
+                        },
+                        {
+                            "title": "THI",
+                            "content":{
+                                "type":"layout",
+                                "key":"thi"
+                            }
+                        },
+                        {
+                            "title": "TTC",
+                            "content":{
+                                "type":"layout",
+                                "key":"ttc"
+                            }
+                        },
+                        {
+                            "title": "RR",
+                            "content":{
+                                "type":"layout",
+                                "key":"rr"
+                            }
+                        }
+                    ]
+                }
+                
+            ]
+        }
+    },
+    "settings_popup":
+		{
+			"type": "array",
+			"orientation": "horizontal",
+			"h_alignment": "left",
+			"content": [
+				{
+				"type": "group",
+				"header": "Settings",
+				"dock": "bottom",
+				"content": {
+				"type": "layout",
+				"key": "tracker_settings"
+					}	
+				}
+			]
+		}
+}

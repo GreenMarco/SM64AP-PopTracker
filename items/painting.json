@@ -1,0 +1,1373 @@
+[
+	//Bob-omb Battlefield
+	{
+		"name": "Bob-omb Battlefield",
+		"allow_disabled": false,
+		"loop": true,
+		"type": "progressive",
+		"stages": [{
+				"img": "img/paintings/Unknown Painting.png",
+				"codes": "bobP"
+			}, {
+				"img": "img/paintings/Bob-omb Battlefield Painting.png"
+			}, {
+				"img": "img/paintings/Whomp's Fortress Painting.png"
+			}, {
+				"img": "img/paintings/Jolly Roger Bay Painting.png"
+			}, {
+				"img": "img/paintings/Cool, Cool Mountain Painting.png"
+			}, {
+				"img": "img/paintings/Big Boo's Haunt Painting.png"
+			}, {
+				"img": "img/paintings/Hazy Maze Cave Painting.png"
+			}, {
+				"img": "img/paintings/Lethal Lava Land Painting.png"
+			}, {
+				"img": "img/paintings/Shifting Sand Land Painting.png"
+			}, {
+				"img": "img/paintings/Dire, Dire Docks Painting.png"
+			}, {
+				"img": "img/paintings/Snowman's Land Painting.png"
+			}, {
+				"img": "img/paintings/Wet-Dry World Painting.png"
+			}, {
+				"img": "img/paintings/Tall, Tall Mountain Painting.png"
+			}, {
+				"img": "img/paintings/Tiny-Huge Island PaintingH.png"
+			}, {
+				"img": "img/paintings/Tiny-Huge Island Paintingt.png"
+			}, {
+				"img": "img/paintings/Tick Tock Clock Painting.png"
+			}, {
+				"img": "img/paintings/Rainbow Ride Painting.png"
+			}, {
+				"img": "img/paintings/The Princess's Secret Slide Painting.png"
+			}, {
+				"img": "img/paintings/The Secret Aquarium Painting.png"
+			}, {
+				"img": "img/paintings/Wing Mario Over the Rainbow Painting.png"
+			}, {
+				"img": "img/paintings/Tower of the Wing Cap Painting.png"
+			}, {
+				"img": "img/paintings/Cavern of the Metal Cap Painting.png"
+			}, {
+				"img": "img/paintings/Vanish Cap Under the Moat Painting.png"
+			}, {
+				"img": "img/paintings/Bowser in the Dark World Painting.png"
+			}, {
+				"img": "img/paintings/Bowser in the Fire Sea Painting.png"
+			}
+		]
+	},
+	//Whomp's Fortress
+	{
+		"name": "Whomp's Fortress",
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+			"img": "img/paintings/Unknown Painting.png",
+			"codes": "wfP"
+		}, {
+			"img": "img/paintings/Bob-omb Battlefield Painting.png"
+		}, {
+			"img": "img/paintings/Whomp's Fortress Painting.png"
+		}, {
+			"img": "img/paintings/Jolly Roger Bay Painting.png"
+		}, {
+			"img": "img/paintings/Cool, Cool Mountain Painting.png"
+		}, {
+			"img": "img/paintings/Big Boo's Haunt Painting.png"
+		}, {
+			"img": "img/paintings/Hazy Maze Cave Painting.png"
+		}, {
+			"img": "img/paintings/Lethal Lava Land Painting.png"
+		}, {
+			"img": "img/paintings/Shifting Sand Land Painting.png"
+		}, {
+			"img": "img/paintings/Dire, Dire Docks Painting.png"
+		}, {
+			"img": "img/paintings/Snowman's Land Painting.png"
+		}, {
+			"img": "img/paintings/Wet-Dry World Painting.png"
+		}, {
+			"img": "img/paintings/Tall, Tall Mountain Painting.png"
+		}, {
+				"img": "img/paintings/Tiny-Huge Island PaintingH.png"
+			}, {
+				"img": "img/paintings/Tiny-Huge Island Paintingt.png"
+			},{
+			"img": "img/paintings/Tick Tock Clock Painting.png"
+		}, {
+			"img": "img/paintings/Rainbow Ride Painting.png"
+		}, {
+			"img": "img/paintings/The Princess's Secret Slide Painting.png"
+		}, {
+			"img": "img/paintings/The Secret Aquarium Painting.png"
+		}, {
+			"img": "img/paintings/Wing Mario Over the Rainbow Painting.png"
+		}, {
+			"img": "img/paintings/Tower of the Wing Cap Painting.png"
+		}, {
+			"img": "img/paintings/Cavern of the Metal Cap Painting.png"
+		}, {
+			"img": "img/paintings/Vanish Cap Under the Moat Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Dark World Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Fire Sea Painting.png"
+		}
+	]
+},
+	//Jolly Roger Bay
+	{
+		"name": "Jolly Roger Bay",
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+			"img": "img/paintings/Unknown Painting.png",
+			"codes": "jrbP"
+		}, {
+			"img": "img/paintings/Bob-omb Battlefield Painting.png"
+		}, {
+			"img": "img/paintings/Whomp's Fortress Painting.png"
+		}, {
+			"img": "img/paintings/Jolly Roger Bay Painting.png"
+		}, {
+			"img": "img/paintings/Cool, Cool Mountain Painting.png"
+		}, {
+			"img": "img/paintings/Big Boo's Haunt Painting.png"
+		}, {
+			"img": "img/paintings/Hazy Maze Cave Painting.png"
+		}, {
+			"img": "img/paintings/Lethal Lava Land Painting.png"
+		}, {
+			"img": "img/paintings/Shifting Sand Land Painting.png"
+		}, {
+			"img": "img/paintings/Dire, Dire Docks Painting.png"
+		}, {
+			"img": "img/paintings/Snowman's Land Painting.png"
+		}, {
+			"img": "img/paintings/Wet-Dry World Painting.png"
+		}, {
+			"img": "img/paintings/Tall, Tall Mountain Painting.png"
+		}, {
+				"img": "img/paintings/Tiny-Huge Island PaintingH.png"
+			}, {
+				"img": "img/paintings/Tiny-Huge Island Paintingt.png"
+			},{
+			"img": "img/paintings/Tick Tock Clock Painting.png"
+		}, {
+			"img": "img/paintings/Rainbow Ride Painting.png"
+		}, {
+			"img": "img/paintings/The Princess's Secret Slide Painting.png"
+		}, {
+			"img": "img/paintings/The Secret Aquarium Painting.png"
+		}, {
+			"img": "img/paintings/Wing Mario Over the Rainbow Painting.png"
+		}, {
+			"img": "img/paintings/Tower of the Wing Cap Painting.png"
+		}, {
+			"img": "img/paintings/Cavern of the Metal Cap Painting.png"
+		}, {
+			"img": "img/paintings/Vanish Cap Under the Moat Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Dark World Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Fire Sea Painting.png"
+		}
+	]
+},
+	//Cool, Cool Mountain
+	{
+		"name": "Cool, Cool Mountain",
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+			"img": "img/paintings/Unknown Painting.png",
+			"codes": "ccmP"
+		}, {
+			"img": "img/paintings/Bob-omb Battlefield Painting.png"
+		}, {
+			"img": "img/paintings/Whomp's Fortress Painting.png"
+		}, {
+			"img": "img/paintings/Jolly Roger Bay Painting.png"
+		}, {
+			"img": "img/paintings/Cool, Cool Mountain Painting.png"
+		}, {
+			"img": "img/paintings/Big Boo's Haunt Painting.png"
+		}, {
+			"img": "img/paintings/Hazy Maze Cave Painting.png"
+		}, {
+			"img": "img/paintings/Lethal Lava Land Painting.png"
+		}, {
+			"img": "img/paintings/Shifting Sand Land Painting.png"
+		}, {
+			"img": "img/paintings/Dire, Dire Docks Painting.png"
+		}, {
+			"img": "img/paintings/Snowman's Land Painting.png"
+		}, {
+			"img": "img/paintings/Wet-Dry World Painting.png"
+		}, {
+			"img": "img/paintings/Tall, Tall Mountain Painting.png"
+		}, {
+				"img": "img/paintings/Tiny-Huge Island PaintingH.png"
+			}, {
+				"img": "img/paintings/Tiny-Huge Island Paintingt.png"
+			},{
+			"img": "img/paintings/Tick Tock Clock Painting.png"
+		}, {
+			"img": "img/paintings/Rainbow Ride Painting.png"
+		}, {
+			"img": "img/paintings/The Princess's Secret Slide Painting.png"
+		}, {
+			"img": "img/paintings/The Secret Aquarium Painting.png"
+		}, {
+			"img": "img/paintings/Wing Mario Over the Rainbow Painting.png"
+		}, {
+			"img": "img/paintings/Tower of the Wing Cap Painting.png"
+		}, {
+			"img": "img/paintings/Cavern of the Metal Cap Painting.png"
+		}, {
+			"img": "img/paintings/Vanish Cap Under the Moat Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Dark World Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Fire Sea Painting.png"
+		}
+	]
+},
+	//Big Boo's Haunt
+	{
+		"name": "Big Boo's Haunt",
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+			"img": "img/paintings/Unknown Painting.png",
+			"codes": "bbhP"
+		}, {
+			"img": "img/paintings/Bob-omb Battlefield Painting.png"
+		}, {
+			"img": "img/paintings/Whomp's Fortress Painting.png"
+		}, {
+			"img": "img/paintings/Jolly Roger Bay Painting.png"
+		}, {
+			"img": "img/paintings/Cool, Cool Mountain Painting.png"
+		}, {
+			"img": "img/paintings/Big Boo's Haunt Painting.png"
+		}, {
+			"img": "img/paintings/Hazy Maze Cave Painting.png"
+		}, {
+			"img": "img/paintings/Lethal Lava Land Painting.png"
+		}, {
+			"img": "img/paintings/Shifting Sand Land Painting.png"
+		}, {
+			"img": "img/paintings/Dire, Dire Docks Painting.png"
+		}, {
+			"img": "img/paintings/Snowman's Land Painting.png"
+		}, {
+			"img": "img/paintings/Wet-Dry World Painting.png"
+		}, {
+			"img": "img/paintings/Tall, Tall Mountain Painting.png"
+		}, {
+				"img": "img/paintings/Tiny-Huge Island PaintingH.png"
+			}, {
+				"img": "img/paintings/Tiny-Huge Island Paintingt.png"
+			},{
+			"img": "img/paintings/Tick Tock Clock Painting.png"
+		}, {
+			"img": "img/paintings/Rainbow Ride Painting.png"
+		}, {
+			"img": "img/paintings/The Princess's Secret Slide Painting.png"
+		}, {
+			"img": "img/paintings/The Secret Aquarium Painting.png"
+		}, {
+			"img": "img/paintings/Wing Mario Over the Rainbow Painting.png"
+		}, {
+			"img": "img/paintings/Tower of the Wing Cap Painting.png"
+		}, {
+			"img": "img/paintings/Cavern of the Metal Cap Painting.png"
+		}, {
+			"img": "img/paintings/Vanish Cap Under the Moat Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Dark World Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Fire Sea Painting.png"
+		}
+	]
+},
+	//Hazy Maze Cave
+	{
+		"name": "Hazy Maze Cave",
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+			"img": "img/paintings/Unknown Painting.png",
+			"codes": "hmcP"
+		}, {
+			"img": "img/paintings/Bob-omb Battlefield Painting.png"
+		}, {
+			"img": "img/paintings/Whomp's Fortress Painting.png"
+		}, {
+			"img": "img/paintings/Jolly Roger Bay Painting.png"
+		}, {
+			"img": "img/paintings/Cool, Cool Mountain Painting.png"
+		}, {
+			"img": "img/paintings/Big Boo's Haunt Painting.png"
+		}, {
+			"img": "img/paintings/Hazy Maze Cave Painting.png"
+		}, {
+			"img": "img/paintings/Lethal Lava Land Painting.png"
+		}, {
+			"img": "img/paintings/Shifting Sand Land Painting.png"
+		}, {
+			"img": "img/paintings/Dire, Dire Docks Painting.png"
+		}, {
+			"img": "img/paintings/Snowman's Land Painting.png"
+		}, {
+			"img": "img/paintings/Wet-Dry World Painting.png"
+		}, {
+			"img": "img/paintings/Tall, Tall Mountain Painting.png"
+		}, {
+				"img": "img/paintings/Tiny-Huge Island PaintingH.png"
+			}, {
+				"img": "img/paintings/Tiny-Huge Island Paintingt.png"
+			},{
+			"img": "img/paintings/Tick Tock Clock Painting.png"
+		}, {
+			"img": "img/paintings/Rainbow Ride Painting.png"
+		}, {
+			"img": "img/paintings/The Princess's Secret Slide Painting.png"
+		}, {
+			"img": "img/paintings/The Secret Aquarium Painting.png"
+		}, {
+			"img": "img/paintings/Wing Mario Over the Rainbow Painting.png"
+		}, {
+			"img": "img/paintings/Tower of the Wing Cap Painting.png"
+		}, {
+			"img": "img/paintings/Cavern of the Metal Cap Painting.png"
+		}, {
+			"img": "img/paintings/Vanish Cap Under the Moat Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Dark World Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Fire Sea Painting.png"
+		}
+	]
+},
+	//Lethal Lava Land
+	{
+		"name": "Lethal Lava Land",
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+			"img": "img/paintings/Unknown Painting.png",
+			"codes": "lllP"
+		}, {
+			"img": "img/paintings/Bob-omb Battlefield Painting.png"
+		}, {
+			"img": "img/paintings/Whomp's Fortress Painting.png"
+		}, {
+			"img": "img/paintings/Jolly Roger Bay Painting.png"
+		}, {
+			"img": "img/paintings/Cool, Cool Mountain Painting.png"
+		}, {
+			"img": "img/paintings/Big Boo's Haunt Painting.png"
+		}, {
+			"img": "img/paintings/Hazy Maze Cave Painting.png"
+		}, {
+			"img": "img/paintings/Lethal Lava Land Painting.png"
+		}, {
+			"img": "img/paintings/Shifting Sand Land Painting.png"
+		}, {
+			"img": "img/paintings/Dire, Dire Docks Painting.png"
+		}, {
+			"img": "img/paintings/Snowman's Land Painting.png"
+		}, {
+			"img": "img/paintings/Wet-Dry World Painting.png"
+		}, {
+			"img": "img/paintings/Tall, Tall Mountain Painting.png"
+		}, {
+				"img": "img/paintings/Tiny-Huge Island PaintingH.png"
+			}, {
+				"img": "img/paintings/Tiny-Huge Island Paintingt.png"
+			},{
+			"img": "img/paintings/Tick Tock Clock Painting.png"
+		}, {
+			"img": "img/paintings/Rainbow Ride Painting.png"
+		}, {
+			"img": "img/paintings/The Princess's Secret Slide Painting.png"
+		}, {
+			"img": "img/paintings/The Secret Aquarium Painting.png"
+		}, {
+			"img": "img/paintings/Wing Mario Over the Rainbow Painting.png"
+		}, {
+			"img": "img/paintings/Tower of the Wing Cap Painting.png"
+		}, {
+			"img": "img/paintings/Cavern of the Metal Cap Painting.png"
+		}, {
+			"img": "img/paintings/Vanish Cap Under the Moat Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Dark World Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Fire Sea Painting.png"
+		}
+	]
+},
+	//Shifting Sand Land
+	{
+		"name": "Shifting Sand Land",
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+			"img": "img/paintings/Unknown Painting.png",
+			"codes": "sslP"
+		}, {
+			"img": "img/paintings/Bob-omb Battlefield Painting.png"
+		}, {
+			"img": "img/paintings/Whomp's Fortress Painting.png"
+		}, {
+			"img": "img/paintings/Jolly Roger Bay Painting.png"
+		}, {
+			"img": "img/paintings/Cool, Cool Mountain Painting.png"
+		}, {
+			"img": "img/paintings/Big Boo's Haunt Painting.png"
+		}, {
+			"img": "img/paintings/Hazy Maze Cave Painting.png"
+		}, {
+			"img": "img/paintings/Lethal Lava Land Painting.png"
+		}, {
+			"img": "img/paintings/Shifting Sand Land Painting.png"
+		}, {
+			"img": "img/paintings/Dire, Dire Docks Painting.png"
+		}, {
+			"img": "img/paintings/Snowman's Land Painting.png"
+		}, {
+			"img": "img/paintings/Wet-Dry World Painting.png"
+		}, {
+			"img": "img/paintings/Tall, Tall Mountain Painting.png"
+		}, {
+				"img": "img/paintings/Tiny-Huge Island PaintingH.png"
+			}, {
+				"img": "img/paintings/Tiny-Huge Island Paintingt.png"
+			},{
+			"img": "img/paintings/Tick Tock Clock Painting.png"
+		}, {
+			"img": "img/paintings/Rainbow Ride Painting.png"
+		}, {
+			"img": "img/paintings/The Princess's Secret Slide Painting.png"
+		}, {
+			"img": "img/paintings/The Secret Aquarium Painting.png"
+		}, {
+			"img": "img/paintings/Wing Mario Over the Rainbow Painting.png"
+		}, {
+			"img": "img/paintings/Tower of the Wing Cap Painting.png"
+		}, {
+			"img": "img/paintings/Cavern of the Metal Cap Painting.png"
+		}, {
+			"img": "img/paintings/Vanish Cap Under the Moat Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Dark World Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Fire Sea Painting.png"
+		}
+	]
+},
+	//Dire, Dire Docks
+	{
+		"name": "Dire, Dire Docks",
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+			"img": "img/paintings/Unknown Painting.png",
+			"codes": "dddP"
+		}, {
+			"img": "img/paintings/Bob-omb Battlefield Painting.png"
+		}, {
+			"img": "img/paintings/Whomp's Fortress Painting.png"
+		}, {
+			"img": "img/paintings/Jolly Roger Bay Painting.png"
+		}, {
+			"img": "img/paintings/Cool, Cool Mountain Painting.png"
+		}, {
+			"img": "img/paintings/Big Boo's Haunt Painting.png"
+		}, {
+			"img": "img/paintings/Hazy Maze Cave Painting.png"
+		}, {
+			"img": "img/paintings/Lethal Lava Land Painting.png"
+		}, {
+			"img": "img/paintings/Shifting Sand Land Painting.png"
+		}, {
+			"img": "img/paintings/Dire, Dire Docks Painting.png"
+		}, {
+			"img": "img/paintings/Snowman's Land Painting.png"
+		}, {
+			"img": "img/paintings/Wet-Dry World Painting.png"
+		}, {
+			"img": "img/paintings/Tall, Tall Mountain Painting.png"
+		}, {
+				"img": "img/paintings/Tiny-Huge Island PaintingH.png"
+			}, {
+				"img": "img/paintings/Tiny-Huge Island Paintingt.png"
+			},{
+			"img": "img/paintings/Tick Tock Clock Painting.png"
+		}, {
+			"img": "img/paintings/Rainbow Ride Painting.png"
+		}, {
+			"img": "img/paintings/The Princess's Secret Slide Painting.png"
+		}, {
+			"img": "img/paintings/The Secret Aquarium Painting.png"
+		}, {
+			"img": "img/paintings/Wing Mario Over the Rainbow Painting.png"
+		}, {
+			"img": "img/paintings/Tower of the Wing Cap Painting.png"
+		}, {
+			"img": "img/paintings/Cavern of the Metal Cap Painting.png"
+		}, {
+			"img": "img/paintings/Vanish Cap Under the Moat Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Dark World Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Fire Sea Painting.png"
+		}
+	]
+},
+	//Snowman's Land
+	{
+		"name": "Snowman's Land",
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+			"img": "img/paintings/Unknown Painting.png",
+			"codes": "slP"
+		}, {
+			"img": "img/paintings/Bob-omb Battlefield Painting.png"
+		}, {
+			"img": "img/paintings/Whomp's Fortress Painting.png"
+		}, {
+			"img": "img/paintings/Jolly Roger Bay Painting.png"
+		}, {
+			"img": "img/paintings/Cool, Cool Mountain Painting.png"
+		}, {
+			"img": "img/paintings/Big Boo's Haunt Painting.png"
+		}, {
+			"img": "img/paintings/Hazy Maze Cave Painting.png"
+		}, {
+			"img": "img/paintings/Lethal Lava Land Painting.png"
+		}, {
+			"img": "img/paintings/Shifting Sand Land Painting.png"
+		}, {
+			"img": "img/paintings/Dire, Dire Docks Painting.png"
+		}, {
+			"img": "img/paintings/Snowman's Land Painting.png"
+		}, {
+			"img": "img/paintings/Wet-Dry World Painting.png"
+		}, {
+			"img": "img/paintings/Tall, Tall Mountain Painting.png"
+		}, {
+				"img": "img/paintings/Tiny-Huge Island PaintingH.png"
+			}, {
+				"img": "img/paintings/Tiny-Huge Island Paintingt.png"
+			},{
+			"img": "img/paintings/Tick Tock Clock Painting.png"
+		}, {
+			"img": "img/paintings/Rainbow Ride Painting.png"
+		}, {
+			"img": "img/paintings/The Princess's Secret Slide Painting.png"
+		}, {
+			"img": "img/paintings/The Secret Aquarium Painting.png"
+		}, {
+			"img": "img/paintings/Wing Mario Over the Rainbow Painting.png"
+		}, {
+			"img": "img/paintings/Tower of the Wing Cap Painting.png"
+		}, {
+			"img": "img/paintings/Cavern of the Metal Cap Painting.png"
+		}, {
+			"img": "img/paintings/Vanish Cap Under the Moat Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Dark World Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Fire Sea Painting.png"
+		}
+	]
+},
+	//Wet-Dry World
+	{
+		"name": "Wet-Dry World",
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+			"img": "img/paintings/Unknown Painting.png",
+			"codes": "wdwP"
+		}, {
+			"img": "img/paintings/Bob-omb Battlefield Painting.png"
+		}, {
+			"img": "img/paintings/Whomp's Fortress Painting.png"
+		}, {
+			"img": "img/paintings/Jolly Roger Bay Painting.png"
+		}, {
+			"img": "img/paintings/Cool, Cool Mountain Painting.png"
+		}, {
+			"img": "img/paintings/Big Boo's Haunt Painting.png"
+		}, {
+			"img": "img/paintings/Hazy Maze Cave Painting.png"
+		}, {
+			"img": "img/paintings/Lethal Lava Land Painting.png"
+		}, {
+			"img": "img/paintings/Shifting Sand Land Painting.png"
+		}, {
+			"img": "img/paintings/Dire, Dire Docks Painting.png"
+		}, {
+			"img": "img/paintings/Snowman's Land Painting.png"
+		}, {
+			"img": "img/paintings/Wet-Dry World Painting.png"
+		}, {
+			"img": "img/paintings/Tall, Tall Mountain Painting.png"
+		}, {
+				"img": "img/paintings/Tiny-Huge Island PaintingH.png"
+			}, {
+				"img": "img/paintings/Tiny-Huge Island Paintingt.png"
+			},{
+			"img": "img/paintings/Tick Tock Clock Painting.png"
+		}, {
+			"img": "img/paintings/Rainbow Ride Painting.png"
+		}, {
+			"img": "img/paintings/The Princess's Secret Slide Painting.png"
+		}, {
+			"img": "img/paintings/The Secret Aquarium Painting.png"
+		}, {
+			"img": "img/paintings/Wing Mario Over the Rainbow Painting.png"
+		}, {
+			"img": "img/paintings/Tower of the Wing Cap Painting.png"
+		}, {
+			"img": "img/paintings/Cavern of the Metal Cap Painting.png"
+		}, {
+			"img": "img/paintings/Vanish Cap Under the Moat Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Dark World Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Fire Sea Painting.png"
+		}
+	]
+},
+	//Tall, Tall Mountain
+	{
+		"name": "Tall, Tall Mountain",
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+			"img": "img/paintings/Unknown Painting.png",
+			"codes": "ttmP"
+		}, {
+			"img": "img/paintings/Bob-omb Battlefield Painting.png"
+		}, {
+			"img": "img/paintings/Whomp's Fortress Painting.png"
+		}, {
+			"img": "img/paintings/Jolly Roger Bay Painting.png"
+		}, {
+			"img": "img/paintings/Cool, Cool Mountain Painting.png"
+		}, {
+			"img": "img/paintings/Big Boo's Haunt Painting.png"
+		}, {
+			"img": "img/paintings/Hazy Maze Cave Painting.png"
+		}, {
+			"img": "img/paintings/Lethal Lava Land Painting.png"
+		}, {
+			"img": "img/paintings/Shifting Sand Land Painting.png"
+		}, {
+			"img": "img/paintings/Dire, Dire Docks Painting.png"
+		}, {
+			"img": "img/paintings/Snowman's Land Painting.png"
+		}, {
+			"img": "img/paintings/Wet-Dry World Painting.png"
+		}, {
+			"img": "img/paintings/Tall, Tall Mountain Painting.png"
+		}, {
+				"img": "img/paintings/Tiny-Huge Island PaintingH.png"
+			}, {
+				"img": "img/paintings/Tiny-Huge Island Paintingt.png"
+			},{
+			"img": "img/paintings/Tick Tock Clock Painting.png"
+		}, {
+			"img": "img/paintings/Rainbow Ride Painting.png"
+		}, {
+			"img": "img/paintings/The Princess's Secret Slide Painting.png"
+		}, {
+			"img": "img/paintings/The Secret Aquarium Painting.png"
+		}, {
+			"img": "img/paintings/Wing Mario Over the Rainbow Painting.png"
+		}, {
+			"img": "img/paintings/Tower of the Wing Cap Painting.png"
+		}, {
+			"img": "img/paintings/Cavern of the Metal Cap Painting.png"
+		}, {
+			"img": "img/paintings/Vanish Cap Under the Moat Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Dark World Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Fire Sea Painting.png"
+		}
+	]
+},
+	//Tiny-Huge Island
+	{
+		"name": "Tiny-Huge Island",
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+			"img": "img/paintings/Unknown Painting.png",
+			"codes": "thiP"
+		}, {
+			"img": "img/paintings/Bob-omb Battlefield Painting.png"
+		}, {
+			"img": "img/paintings/Whomp's Fortress Painting.png"
+		}, {
+			"img": "img/paintings/Jolly Roger Bay Painting.png"
+		}, {
+			"img": "img/paintings/Cool, Cool Mountain Painting.png"
+		}, {
+			"img": "img/paintings/Big Boo's Haunt Painting.png"
+		}, {
+			"img": "img/paintings/Hazy Maze Cave Painting.png"
+		}, {
+			"img": "img/paintings/Lethal Lava Land Painting.png"
+		}, {
+			"img": "img/paintings/Shifting Sand Land Painting.png"
+		}, {
+			"img": "img/paintings/Dire, Dire Docks Painting.png"
+		}, {
+			"img": "img/paintings/Snowman's Land Painting.png"
+		}, {
+			"img": "img/paintings/Wet-Dry World Painting.png"
+		}, {
+			"img": "img/paintings/Tall, Tall Mountain Painting.png"
+		}, {
+				"img": "img/paintings/Tiny-Huge Island PaintingH.png"
+			}, {
+				"img": "img/paintings/Tiny-Huge Island Paintingt.png"
+			},{
+			"img": "img/paintings/Tick Tock Clock Painting.png"
+		}, {
+			"img": "img/paintings/Rainbow Ride Painting.png"
+		}, {
+			"img": "img/paintings/The Princess's Secret Slide Painting.png"
+		}, {
+			"img": "img/paintings/The Secret Aquarium Painting.png"
+		}, {
+			"img": "img/paintings/Wing Mario Over the Rainbow Painting.png"
+		}, {
+			"img": "img/paintings/Tower of the Wing Cap Painting.png"
+		}, {
+			"img": "img/paintings/Cavern of the Metal Cap Painting.png"
+		}, {
+			"img": "img/paintings/Vanish Cap Under the Moat Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Dark World Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Fire Sea Painting.png"
+		}
+	]
+},
+	//Tick Tock Clock
+	{
+		"name": "Tick Tock Clock",
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+			"img": "img/paintings/Unknown Painting.png",
+			"codes": "ttcP"
+		}, {
+			"img": "img/paintings/Bob-omb Battlefield Painting.png"
+		}, {
+			"img": "img/paintings/Whomp's Fortress Painting.png"
+		}, {
+			"img": "img/paintings/Jolly Roger Bay Painting.png"
+		}, {
+			"img": "img/paintings/Cool, Cool Mountain Painting.png"
+		}, {
+			"img": "img/paintings/Big Boo's Haunt Painting.png"
+		}, {
+			"img": "img/paintings/Hazy Maze Cave Painting.png"
+		}, {
+			"img": "img/paintings/Lethal Lava Land Painting.png"
+		}, {
+			"img": "img/paintings/Shifting Sand Land Painting.png"
+		}, {
+			"img": "img/paintings/Dire, Dire Docks Painting.png"
+		}, {
+			"img": "img/paintings/Snowman's Land Painting.png"
+		}, {
+			"img": "img/paintings/Wet-Dry World Painting.png"
+		}, {
+			"img": "img/paintings/Tall, Tall Mountain Painting.png"
+		}, {
+				"img": "img/paintings/Tiny-Huge Island PaintingH.png"
+			}, {
+				"img": "img/paintings/Tiny-Huge Island Paintingt.png"
+			},{
+			"img": "img/paintings/Tick Tock Clock Painting.png"
+		}, {
+			"img": "img/paintings/Rainbow Ride Painting.png"
+		}, {
+			"img": "img/paintings/The Princess's Secret Slide Painting.png"
+		}, {
+			"img": "img/paintings/The Secret Aquarium Painting.png"
+		}, {
+			"img": "img/paintings/Wing Mario Over the Rainbow Painting.png"
+		}, {
+			"img": "img/paintings/Tower of the Wing Cap Painting.png"
+		}, {
+			"img": "img/paintings/Cavern of the Metal Cap Painting.png"
+		}, {
+			"img": "img/paintings/Vanish Cap Under the Moat Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Dark World Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Fire Sea Painting.png"
+		}
+	]
+},
+	//Rainbow Ride
+	{
+		"name": "Rainbow Ride",
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+			"img": "img/paintings/Unknown Painting.png",
+			"codes": "rrP"
+		}, {
+			"img": "img/paintings/Bob-omb Battlefield Painting.png"
+		}, {
+			"img": "img/paintings/Whomp's Fortress Painting.png"
+		}, {
+			"img": "img/paintings/Jolly Roger Bay Painting.png"
+		}, {
+			"img": "img/paintings/Cool, Cool Mountain Painting.png"
+		}, {
+			"img": "img/paintings/Big Boo's Haunt Painting.png"
+		}, {
+			"img": "img/paintings/Hazy Maze Cave Painting.png"
+		}, {
+			"img": "img/paintings/Lethal Lava Land Painting.png"
+		}, {
+			"img": "img/paintings/Shifting Sand Land Painting.png"
+		}, {
+			"img": "img/paintings/Dire, Dire Docks Painting.png"
+		}, {
+			"img": "img/paintings/Snowman's Land Painting.png"
+		}, {
+			"img": "img/paintings/Wet-Dry World Painting.png"
+		}, {
+			"img": "img/paintings/Tall, Tall Mountain Painting.png"
+		}, {
+				"img": "img/paintings/Tiny-Huge Island PaintingH.png"
+			}, {
+				"img": "img/paintings/Tiny-Huge Island Paintingt.png"
+			},{
+			"img": "img/paintings/Tick Tock Clock Painting.png"
+		}, {
+			"img": "img/paintings/Rainbow Ride Painting.png"
+		}, {
+			"img": "img/paintings/The Princess's Secret Slide Painting.png"
+		}, {
+			"img": "img/paintings/The Secret Aquarium Painting.png"
+		}, {
+			"img": "img/paintings/Wing Mario Over the Rainbow Painting.png"
+		}, {
+			"img": "img/paintings/Tower of the Wing Cap Painting.png"
+		}, {
+			"img": "img/paintings/Cavern of the Metal Cap Painting.png"
+		}, {
+			"img": "img/paintings/Vanish Cap Under the Moat Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Dark World Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Fire Sea Painting.png"
+		}
+	]
+},
+	//The Princess's Secret Slide
+	{
+		"name": "The Princess's Secret Slide",
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+			"img": "img/paintings/Unknown Painting.png",
+			"codes": "pssP"
+		}, {
+			"img": "img/paintings/Bob-omb Battlefield Painting.png"
+		}, {
+			"img": "img/paintings/Whomp's Fortress Painting.png"
+		}, {
+			"img": "img/paintings/Jolly Roger Bay Painting.png"
+		}, {
+			"img": "img/paintings/Cool, Cool Mountain Painting.png"
+		}, {
+			"img": "img/paintings/Big Boo's Haunt Painting.png"
+		}, {
+			"img": "img/paintings/Hazy Maze Cave Painting.png"
+		}, {
+			"img": "img/paintings/Lethal Lava Land Painting.png"
+		}, {
+			"img": "img/paintings/Shifting Sand Land Painting.png"
+		}, {
+			"img": "img/paintings/Dire, Dire Docks Painting.png"
+		}, {
+			"img": "img/paintings/Snowman's Land Painting.png"
+		}, {
+			"img": "img/paintings/Wet-Dry World Painting.png"
+		}, {
+			"img": "img/paintings/Tall, Tall Mountain Painting.png"
+		}, {
+				"img": "img/paintings/Tiny-Huge Island PaintingH.png"
+			}, {
+				"img": "img/paintings/Tiny-Huge Island Paintingt.png"
+			},{
+			"img": "img/paintings/Tick Tock Clock Painting.png"
+		}, {
+			"img": "img/paintings/Rainbow Ride Painting.png"
+		}, {
+			"img": "img/paintings/The Princess's Secret Slide Painting.png"
+		}, {
+			"img": "img/paintings/The Secret Aquarium Painting.png"
+		}, {
+			"img": "img/paintings/Wing Mario Over the Rainbow Painting.png"
+		}, {
+			"img": "img/paintings/Tower of the Wing Cap Painting.png"
+		}, {
+			"img": "img/paintings/Cavern of the Metal Cap Painting.png"
+		}, {
+			"img": "img/paintings/Vanish Cap Under the Moat Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Dark World Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Fire Sea Painting.png"
+		}
+	]
+},
+	//The Secret Aquarium
+	{
+		"name": "The Secret Aquarium",
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+			"img": "img/paintings/Unknown Painting.png",
+			"codes": "saP"
+		}, {
+			"img": "img/paintings/Bob-omb Battlefield Painting.png"
+		}, {
+			"img": "img/paintings/Whomp's Fortress Painting.png"
+		}, {
+			"img": "img/paintings/Jolly Roger Bay Painting.png"
+		}, {
+			"img": "img/paintings/Cool, Cool Mountain Painting.png"
+		}, {
+			"img": "img/paintings/Big Boo's Haunt Painting.png"
+		}, {
+			"img": "img/paintings/Hazy Maze Cave Painting.png"
+		}, {
+			"img": "img/paintings/Lethal Lava Land Painting.png"
+		}, {
+			"img": "img/paintings/Shifting Sand Land Painting.png"
+		}, {
+			"img": "img/paintings/Dire, Dire Docks Painting.png"
+		}, {
+			"img": "img/paintings/Snowman's Land Painting.png"
+		}, {
+			"img": "img/paintings/Wet-Dry World Painting.png"
+		}, {
+			"img": "img/paintings/Tall, Tall Mountain Painting.png"
+		}, {
+				"img": "img/paintings/Tiny-Huge Island PaintingH.png"
+			}, {
+				"img": "img/paintings/Tiny-Huge Island Paintingt.png"
+			},{
+			"img": "img/paintings/Tick Tock Clock Painting.png"
+		}, {
+			"img": "img/paintings/Rainbow Ride Painting.png"
+		}, {
+			"img": "img/paintings/The Princess's Secret Slide Painting.png"
+		}, {
+			"img": "img/paintings/The Secret Aquarium Painting.png"
+		}, {
+			"img": "img/paintings/Wing Mario Over the Rainbow Painting.png"
+		}, {
+			"img": "img/paintings/Tower of the Wing Cap Painting.png"
+		}, {
+			"img": "img/paintings/Cavern of the Metal Cap Painting.png"
+		}, {
+			"img": "img/paintings/Vanish Cap Under the Moat Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Dark World Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Fire Sea Painting.png"
+		}
+	]
+},
+	//Wing Mario Over the Rainbow
+	{
+		"name": "Wing Mario Over the Rainbow",
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+			"img": "img/paintings/Unknown Painting.png",
+			"codes": "WMOtRP"
+		}, {
+			"img": "img/paintings/Bob-omb Battlefield Painting.png"
+		}, {
+			"img": "img/paintings/Whomp's Fortress Painting.png"
+		}, {
+			"img": "img/paintings/Jolly Roger Bay Painting.png"
+		}, {
+			"img": "img/paintings/Cool, Cool Mountain Painting.png"
+		}, {
+			"img": "img/paintings/Big Boo's Haunt Painting.png"
+		}, {
+			"img": "img/paintings/Hazy Maze Cave Painting.png"
+		}, {
+			"img": "img/paintings/Lethal Lava Land Painting.png"
+		}, {
+			"img": "img/paintings/Shifting Sand Land Painting.png"
+		}, {
+			"img": "img/paintings/Dire, Dire Docks Painting.png"
+		}, {
+			"img": "img/paintings/Snowman's Land Painting.png"
+		}, {
+			"img": "img/paintings/Wet-Dry World Painting.png"
+		}, {
+			"img": "img/paintings/Tall, Tall Mountain Painting.png"
+		}, {
+				"img": "img/paintings/Tiny-Huge Island PaintingH.png"
+			}, {
+				"img": "img/paintings/Tiny-Huge Island Paintingt.png"
+			},{
+			"img": "img/paintings/Tick Tock Clock Painting.png"
+		}, {
+			"img": "img/paintings/Rainbow Ride Painting.png"
+		}, {
+			"img": "img/paintings/The Princess's Secret Slide Painting.png"
+		}, {
+			"img": "img/paintings/The Secret Aquarium Painting.png"
+		}, {
+			"img": "img/paintings/Wing Mario Over the Rainbow Painting.png"
+		}, {
+			"img": "img/paintings/Tower of the Wing Cap Painting.png"
+		}, {
+			"img": "img/paintings/Cavern of the Metal Cap Painting.png"
+		}, {
+			"img": "img/paintings/Vanish Cap Under the Moat Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Dark World Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Fire Sea Painting.png"
+		}
+	]
+},
+	//Tower of the Wing Cap
+	{
+		"name": "Tower of the Wing Cap",
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+			"img": "img/paintings/Unknown Painting.png",
+			"codes": "wcP"
+		}, {
+			"img": "img/paintings/Bob-omb Battlefield Painting.png"
+		}, {
+			"img": "img/paintings/Whomp's Fortress Painting.png"
+		}, {
+			"img": "img/paintings/Jolly Roger Bay Painting.png"
+		}, {
+			"img": "img/paintings/Cool, Cool Mountain Painting.png"
+		}, {
+			"img": "img/paintings/Big Boo's Haunt Painting.png"
+		}, {
+			"img": "img/paintings/Hazy Maze Cave Painting.png"
+		}, {
+			"img": "img/paintings/Lethal Lava Land Painting.png"
+		}, {
+			"img": "img/paintings/Shifting Sand Land Painting.png"
+		}, {
+			"img": "img/paintings/Dire, Dire Docks Painting.png"
+		}, {
+			"img": "img/paintings/Snowman's Land Painting.png"
+		}, {
+			"img": "img/paintings/Wet-Dry World Painting.png"
+		}, {
+			"img": "img/paintings/Tall, Tall Mountain Painting.png"
+		}, {
+				"img": "img/paintings/Tiny-Huge Island PaintingH.png"
+			}, {
+				"img": "img/paintings/Tiny-Huge Island Paintingt.png"
+			},{
+			"img": "img/paintings/Tick Tock Clock Painting.png"
+		}, {
+			"img": "img/paintings/Rainbow Ride Painting.png"
+		}, {
+			"img": "img/paintings/The Princess's Secret Slide Painting.png"
+		}, {
+			"img": "img/paintings/The Secret Aquarium Painting.png"
+		}, {
+			"img": "img/paintings/Wing Mario Over the Rainbow Painting.png"
+		}, {
+			"img": "img/paintings/Tower of the Wing Cap Painting.png"
+		}, {
+			"img": "img/paintings/Cavern of the Metal Cap Painting.png"
+		}, {
+			"img": "img/paintings/Vanish Cap Under the Moat Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Dark World Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Fire Sea Painting.png"
+		}
+	]
+},
+	//Cavern of the Metal Cap
+	{
+		"name": "Cavern of the Metal Cap",
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+			"img": "img/paintings/Unknown Painting.png",
+			"codes": "mcP"
+		}, {
+			"img": "img/paintings/Bob-omb Battlefield Painting.png"
+		}, {
+			"img": "img/paintings/Whomp's Fortress Painting.png"
+		}, {
+			"img": "img/paintings/Jolly Roger Bay Painting.png"
+		}, {
+			"img": "img/paintings/Cool, Cool Mountain Painting.png"
+		}, {
+			"img": "img/paintings/Big Boo's Haunt Painting.png"
+		}, {
+			"img": "img/paintings/Hazy Maze Cave Painting.png"
+		}, {
+			"img": "img/paintings/Lethal Lava Land Painting.png"
+		}, {
+			"img": "img/paintings/Shifting Sand Land Painting.png"
+		}, {
+			"img": "img/paintings/Dire, Dire Docks Painting.png"
+		}, {
+			"img": "img/paintings/Snowman's Land Painting.png"
+		}, {
+			"img": "img/paintings/Wet-Dry World Painting.png"
+		}, {
+			"img": "img/paintings/Tall, Tall Mountain Painting.png"
+		}, {
+				"img": "img/paintings/Tiny-Huge Island PaintingH.png"
+			}, {
+				"img": "img/paintings/Tiny-Huge Island Paintingt.png"
+			},{
+			"img": "img/paintings/Tick Tock Clock Painting.png"
+		}, {
+			"img": "img/paintings/Rainbow Ride Painting.png"
+		}, {
+			"img": "img/paintings/The Princess's Secret Slide Painting.png"
+		}, {
+			"img": "img/paintings/The Secret Aquarium Painting.png"
+		}, {
+			"img": "img/paintings/Wing Mario Over the Rainbow Painting.png"
+		}, {
+			"img": "img/paintings/Tower of the Wing Cap Painting.png"
+		}, {
+			"img": "img/paintings/Cavern of the Metal Cap Painting.png"
+		}, {
+			"img": "img/paintings/Vanish Cap Under the Moat Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Dark World Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Fire Sea Painting.png"
+		}
+	]
+},
+	//Vanish Cap Under the Moat
+	{
+		"name": "Vanish Cap Under the Moat",
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+			"img": "img/paintings/Unknown Painting.png",
+			"codes": "vcP"
+		}, {
+			"img": "img/paintings/Bob-omb Battlefield Painting.png"
+		}, {
+			"img": "img/paintings/Whomp's Fortress Painting.png"
+		}, {
+			"img": "img/paintings/Jolly Roger Bay Painting.png"
+		}, {
+			"img": "img/paintings/Cool, Cool Mountain Painting.png"
+		}, {
+			"img": "img/paintings/Big Boo's Haunt Painting.png"
+		}, {
+			"img": "img/paintings/Hazy Maze Cave Painting.png"
+		}, {
+			"img": "img/paintings/Lethal Lava Land Painting.png"
+		}, {
+			"img": "img/paintings/Shifting Sand Land Painting.png"
+		}, {
+			"img": "img/paintings/Dire, Dire Docks Painting.png"
+		}, {
+			"img": "img/paintings/Snowman's Land Painting.png"
+		}, {
+			"img": "img/paintings/Wet-Dry World Painting.png"
+		}, {
+			"img": "img/paintings/Tall, Tall Mountain Painting.png"
+		}, {
+				"img": "img/paintings/Tiny-Huge Island PaintingH.png"
+			}, {
+				"img": "img/paintings/Tiny-Huge Island Paintingt.png"
+			},{
+			"img": "img/paintings/Tick Tock Clock Painting.png"
+		}, {
+			"img": "img/paintings/Rainbow Ride Painting.png"
+		}, {
+			"img": "img/paintings/The Princess's Secret Slide Painting.png"
+		}, {
+			"img": "img/paintings/The Secret Aquarium Painting.png"
+		}, {
+			"img": "img/paintings/Wing Mario Over the Rainbow Painting.png"
+		}, {
+			"img": "img/paintings/Tower of the Wing Cap Painting.png"
+		}, {
+			"img": "img/paintings/Cavern of the Metal Cap Painting.png"
+		}, {
+			"img": "img/paintings/Vanish Cap Under the Moat Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Dark World Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Fire Sea Painting.png"
+		}
+	]
+},
+	//Bowser in the Dark World
+	{
+		"name": "Bowser in the Dark World",
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+			"img": "img/paintings/Unknown Painting.png",
+			"codes": "BitDWP"
+		}, {
+			"img": "img/paintings/Bob-omb Battlefield Painting.png"
+		}, {
+			"img": "img/paintings/Whomp's Fortress Painting.png"
+		}, {
+			"img": "img/paintings/Jolly Roger Bay Painting.png"
+		}, {
+			"img": "img/paintings/Cool, Cool Mountain Painting.png"
+		}, {
+			"img": "img/paintings/Big Boo's Haunt Painting.png"
+		}, {
+			"img": "img/paintings/Hazy Maze Cave Painting.png"
+		}, {
+			"img": "img/paintings/Lethal Lava Land Painting.png"
+		}, {
+			"img": "img/paintings/Shifting Sand Land Painting.png"
+		}, {
+			"img": "img/paintings/Dire, Dire Docks Painting.png"
+		}, {
+			"img": "img/paintings/Snowman's Land Painting.png"
+		}, {
+			"img": "img/paintings/Wet-Dry World Painting.png"
+		}, {
+			"img": "img/paintings/Tall, Tall Mountain Painting.png"
+		}, {
+				"img": "img/paintings/Tiny-Huge Island PaintingH.png"
+			}, {
+				"img": "img/paintings/Tiny-Huge Island Paintingt.png"
+			},{
+			"img": "img/paintings/Tick Tock Clock Painting.png"
+		}, {
+			"img": "img/paintings/Rainbow Ride Painting.png"
+		}, {
+			"img": "img/paintings/The Princess's Secret Slide Painting.png"
+		}, {
+			"img": "img/paintings/The Secret Aquarium Painting.png"
+		}, {
+			"img": "img/paintings/Wing Mario Over the Rainbow Painting.png"
+		}, {
+			"img": "img/paintings/Tower of the Wing Cap Painting.png"
+		}, {
+			"img": "img/paintings/Cavern of the Metal Cap Painting.png"
+		}, {
+			"img": "img/paintings/Vanish Cap Under the Moat Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Dark World Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Fire Sea Painting.png"
+		}
+	]
+},
+	//Bowser in the Fire Sea
+	{
+		"name": "Bowser in the Fire Sea",
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+			"img": "img/paintings/Unknown Painting.png",
+			"codes": "BitFSP"
+		}, {
+			"img": "img/paintings/Bob-omb Battlefield Painting.png"
+		}, {
+			"img": "img/paintings/Whomp's Fortress Painting.png"
+		}, {
+			"img": "img/paintings/Jolly Roger Bay Painting.png"
+		}, {
+			"img": "img/paintings/Cool, Cool Mountain Painting.png"
+		}, {
+			"img": "img/paintings/Big Boo's Haunt Painting.png"
+		}, {
+			"img": "img/paintings/Hazy Maze Cave Painting.png"
+		}, {
+			"img": "img/paintings/Lethal Lava Land Painting.png"
+		}, {
+			"img": "img/paintings/Shifting Sand Land Painting.png"
+		}, {
+			"img": "img/paintings/Dire, Dire Docks Painting.png"
+		}, {
+			"img": "img/paintings/Snowman's Land Painting.png"
+		}, {
+			"img": "img/paintings/Wet-Dry World Painting.png"
+		}, {
+			"img": "img/paintings/Tall, Tall Mountain Painting.png"
+		}, {
+				"img": "img/paintings/Tiny-Huge Island PaintingH.png"
+			}, {
+				"img": "img/paintings/Tiny-Huge Island Paintingt.png"
+			},{
+			"img": "img/paintings/Tick Tock Clock Painting.png"
+		}, {
+			"img": "img/paintings/Rainbow Ride Painting.png"
+		}, {
+			"img": "img/paintings/The Princess's Secret Slide Painting.png"
+		}, {
+			"img": "img/paintings/The Secret Aquarium Painting.png"
+		}, {
+			"img": "img/paintings/Wing Mario Over the Rainbow Painting.png"
+		}, {
+			"img": "img/paintings/Tower of the Wing Cap Painting.png"
+		}, {
+			"img": "img/paintings/Cavern of the Metal Cap Painting.png"
+		}, {
+			"img": "img/paintings/Vanish Cap Under the Moat Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Dark World Painting.png"
+		}, {
+			"img": "img/paintings/Bowser in the Fire Sea Painting.png"
+		}
+	]
+},
+	//Bowser in the Sky
+	{
+		"name": "Bowser in the Sky",
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "img/paintings/Bowser in the Sky Painting.png",
+				"codes": "BitSP"
+			}, {
+				"img": "img/paintings/Bowser in the Sky Painting.png"
+			}
+		]
+	}
+]

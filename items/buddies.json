@@ -1,0 +1,62 @@
+[
+	{
+		"name": "Bob-omb Battlefield Cannons",
+		"type": "toggle",
+		"img": "img/settings/pinkbomb.png",
+		"codes": "bobb"
+	},
+	{
+		"name": "Whomp's Fortress Cannon",
+		"type": "toggle",
+		"img": "img/settings/pinkbomb.png",
+		"codes": "wfb"
+	},
+	{
+		"name": "Jolly Roger Bay Cannon",
+		"type": "toggle",
+		"img": "img/settings/pinkbomb.png",
+		"codes": "jrbb"
+	},
+	{
+		"name": "Cool, Cool Mountain Cannons",
+		"type": "toggle",
+		"img": "img/settings/pinkbomb.png",
+		"codes": "ccmb"
+	},
+	{
+		"name": "Shifting Sand Land Cannon",
+		"type": "toggle",
+		"img": "img/settings/pinkbomb.png",
+		"codes": "sslb"
+	},
+	{
+		"name": "Snowman's Land Cannon",
+		"type": "toggle",
+		"img": "img/settings/pinkbomb.png",
+		"codes": "slb"
+	},
+	{
+		"name": "Wet-Dry World Cannon",
+		"type": "toggle",
+		"img": "img/settings/pinkbomb.png",
+		"codes": "wdwb"
+	},
+	{
+		"name": "Tall, Tall Mountain Cannon",
+		"type": "toggle",
+		"img": "img/settings/pinkbomb.png",
+		"codes": "ttmb"
+	},
+	{
+		"name": "Tiny-Huge Island Cannon",
+		"type": "toggle",
+		"img": "img/settings/pinkbomb.png",
+		"codes": "thib"
+	},
+	{
+		"name": "Rainbow Ride Cannon",
+		"type": "toggle",
+		"img": "img/settings/pinkbomb.png",
+		"codes": "rrb"
+	}
+]
