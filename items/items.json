@@ -20,26 +20,6 @@
         "img": "img/settings/Key.png",
         "codes": "topfloorkey"
     },
-	{
-        "name": "Progressive Key",
-        "type": "progressive",
-        "codes": "progkey",
-		"stages": [
-				{
-					"img": "img/settings/progkeybasement.png",
-					"disabled_img": "img/settings/Key.png",
-					"codes": "progkey_1",
-					"inherit_codes": true
-				},
-				{
-					"img": "img/settings/Key.png",
-					"codes": "progkey_2",
-					"inherit_codes": true
-				}
-			]				
-    },
-
-
 
     {
         "name": "Wing Cap",

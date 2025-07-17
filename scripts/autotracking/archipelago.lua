@@ -128,6 +128,15 @@ function onItem(index, item_id, item_name, player_number)
     local is_local = player_number == Archipelago.PlayerNumber
     CUR_INDEX = index;
     local v = ITEM_MAPPING[item_id]
+    
+    if v[1] == "progkey" and not Tracker:FindObjectForCode("basementkey").Active then
+        Tracker:FindObjectForCode("basementkey").Active = true
+        return
+    elseif v[1] == "progkey" and Tracker:FindObjectForCode("basementkey").Active then
+        Tracker:FindObjectForCode("topfloorkey").Active = true
+        return
+    end
+
     if not v then
         if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
             print(string.format("onItem: could not find item mapping for id %s", item_id))
