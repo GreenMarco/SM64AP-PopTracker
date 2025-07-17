@@ -1,4 +1,4 @@
-# SM64 Move Rando-PopTracker
+# SM64AP Move Rando-PopTracker
 AP PopTracker Pack for Super Mario 64
 
 Tracker pack for [PopTracker](https://github.com/black-sliver/PopTracker/) with Archipelago Autotracking.
