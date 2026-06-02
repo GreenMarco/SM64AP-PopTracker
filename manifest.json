@@ -12,12 +12,7 @@
         "var_vertical": {
             "display_name": "Vertical",
             "flags": ["ap"]
-        },
-        "zvar_exp": {
-            "display_name": "Experimental",
-            "flags": ["ap"]
         }
-        
     },
     "min_poptracker_version": "0.26.1",
     "target_poptracker_version": "0.26.1",
