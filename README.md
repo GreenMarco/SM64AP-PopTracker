@@ -3,7 +3,7 @@ AP PopTracker Pack for Super Mario 64
 
 Tracker pack for [PopTracker](https://github.com/black-sliver/PopTracker/) with Archipelago Autotracking.
 
-PopTracker v0.32.0 or higher is recommended. 
+PopTracker v0.26.1 or higher is recommended. 
 
 Installation:
     - Download Poptracker from the link above, and place installation anywhere on your PC. Place this pack inside the "Packs" folder within. 
