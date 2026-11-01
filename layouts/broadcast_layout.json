@@ -3,20 +3,6 @@
         "type": "container",
         "background":"#ff00bf",
         "content": [
-<<<<<<< HEAD:layouts/layout_broadcast.json
-            {
-                "type":"dock",
-                "content":[{
-                    "type": "layout",
-                    "dock": "top",
-                    "key": "tracker_items"
-                },
-                {
-                    "type": "layout",
-                    "dock": "top",
-                    "key": "tracker_moves"            
-                }]
-=======
             {
             "type": "dock",
             "content": [{
@@ -31,7 +17,6 @@
             }
             ]
             
->>>>>>> 5f0edbe (versión extendida con pinturas y cañones):layouts/broadcast_layout.json
             }
         ]
     }

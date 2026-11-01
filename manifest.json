@@ -8,8 +8,6 @@
         "vertical": {
             "display_name": "Vertical",
             "flags": ["ap"]
-<<<<<<< HEAD
-=======
         },
         "horizontal": {
             "display_name": "Horizontal",
@@ -22,7 +20,6 @@
         "horizontal-complete": {
             "display_name": "Horizontal-Completo",
             "flags": ["ap"]
->>>>>>> 5f0edbe (versión extendida con pinturas y cañones)
         }
     },
     "min_poptracker_version": "0.26.1",
