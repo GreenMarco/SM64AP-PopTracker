@@ -28,9 +28,9 @@ elseif variant == "vertical-complete" then
 elseif variant == "horizontal-complete" then
     Tracker:AddLayouts("layouts/layout_horizontal_complete.json")
     Tracker:AddLayouts("layouts/broadcast_layout_horizontal_complete.json")
---elseif variant == "exp" then
---    Tracker:AddLayouts("layouts/layout_exp.json")
---    Tracker:AddLayouts("layouts/broadcast_layout_horizontal.json")
+elseif variant == "exp" then
+    Tracker:AddLayouts("layouts/layout_exp.json")
+    Tracker:AddLayouts("layouts/broadcast_layout_horizontal.json")
 else -- "vertical"
     Tracker:AddLayouts("layouts/layout.json")
     Tracker:AddLayouts("layouts/broadcast_layout.json")
