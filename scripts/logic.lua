@@ -8,6 +8,41 @@ function has(item, amount)
     end
 end
 
+-- Estrellas suficientes para el coste guardado en un contador de items/doors.json
+function has_stars_for(cost_code)
+	local cost = Tracker:FindObjectForCode(cost_code)
+	return has("powerstar", cost and cost.AcquiredCount or 0)
+end
+
+-- Puerta de estrellas del primer piso hacia Bowser in the Dark World
+function bitdw_door()
+	return has_stars_for("cost_bitdw")
+end
+
+-- Puerta de estrellas del sótano (DDD / Bowser in the Fire Sea)
+function ddd_door()
+	return has("basementkey") and has_stars_for("cost_basement")
+end
+
+-- Puerta de estrellas del segundo piso hacia el tercero (TTC, RR, WMotR)
+function floor3_door()
+	return has("topfloorkey") and has_stars_for("cost_floor2")
+end
+
+-- Escaleras infinitas / Bowser in the Sky
+function final_door()
+	return floor3_door() and has_stars_for("cost_final")
+end
+
+-- MIPS está en el sótano: solo hace falta la llave y las estrellas
+function mips1_ready()
+	return has("basementkey") and has_stars_for("cost_mips1")
+end
+
+function mips2_ready()
+	return has("basementkey") and has_stars_for("cost_mips2")
+end
+
 function bob_island()
 	return has("bob") or (has("cannons") and has("wc") and has("tj")) or (has("caps") and has("cannons") and has("lj"))
 end

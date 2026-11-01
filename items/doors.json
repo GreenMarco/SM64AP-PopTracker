@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Bowser in the Dark World Door",
+        "type": "consumable",
+        "img": "img/varios/StarDoor.png",
+        "img_mods": "overlay|img/text/door/8.png",
+        "codes": "cost_bitdw",
+        "min_quantity": 0,
+        "max_quantity": 120,
+        "initial_quantity": 8,
+        "overlay_font_size": 25,
+        "font": "MARIO Font v3_2 Solid"
+    },
+    {
+        "name": "Basement Star Door (DDD)",
+        "type": "consumable",
+        "img": "img/varios/StarDoor.png",
+        "img_mods": "overlay|img/text/door/L3.png,overlay|img/text/door/R0.png",
+        "codes": "cost_basement",
+        "min_quantity": 0,
+        "max_quantity": 120,
+        "initial_quantity": 30,
+        "overlay_font_size": 25,
+        "font": "MARIO Font v3_2 Solid"
+    },
+    {
+        "name": "Second Floor Star Door (Third Floor)",
+        "type": "consumable",
+        "img": "img/varios/StarDoor.png",
+        "img_mods": "overlay|img/text/door/L5.png,overlay|img/text/door/R0.png",
+        "codes": "cost_floor2",
+        "min_quantity": 0,
+        "max_quantity": 120,
+        "initial_quantity": 50,
+        "overlay_font_size": 25,
+        "font": "MARIO Font v3_2 Solid"
+    },
+    {
+        "name": "Endless Stairs / Bowser in the Sky",
+        "type": "consumable",
+        "img": "img/varios/StarDoor.png",
+        "img_mods": "overlay|img/text/door/L7.png,overlay|img/text/door/R0.png",
+        "codes": "cost_final",
+        "min_quantity": 0,
+        "max_quantity": 120,
+        "initial_quantity": 70,
+        "overlay_font_size": 25,
+        "font": "MARIO Font v3_2 Solid"
+    },
+    {
+        "name": "MIPS 1",
+        "type": "consumable",
+        "img": "img/varios/MIPSSM64.png",
+        "img_mods": "overlay|img/text/1.png",
+        "codes": "cost_mips1",
+        "min_quantity": 0,
+        "max_quantity": 120,
+        "initial_quantity": 15,
+        "overlay_font_size": 25,
+        "font": "MARIO Font v3_2 Solid"
+    },
+    {
+        "name": "MIPS 2",
+        "type": "consumable",
+        "img": "img/varios/MIPSSM64.png",
+        "img_mods": "overlay|img/text/2.png",
+        "codes": "cost_mips2",
+        "min_quantity": 0,
+        "max_quantity": 120,
+        "initial_quantity": 50,
+        "overlay_font_size": 25,
+        "font": "MARIO Font v3_2 Solid"
+    }
+]

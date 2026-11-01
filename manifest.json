@@ -1,17 +1,28 @@
 {
     "name": "Super Mario 64 AP Tracker",
     "game_name": "Super Mario 64",
-    "package_version": "0.1",
+    "package_version": "0.3",
     "package_uid": "sm64ap_moverando",
     "author": "GreenMarco",
     "variants": {
-        "standard": {
+        "vertical": {
+            "display_name": "Vertical",
+            "flags": ["ap"]
+<<<<<<< HEAD
+=======
+        },
+        "horizontal": {
             "display_name": "Horizontal",
             "flags": ["ap"]
         },
-        "var_vertical": {
-            "display_name": "Vertical",
+        "vertical-complete": {
+            "display_name": "Vertical-Completo",
             "flags": ["ap"]
+        },
+        "horizontal-complete": {
+            "display_name": "Horizontal-Completo",
+            "flags": ["ap"]
+>>>>>>> 5f0edbe (versión extendida con pinturas y cañones)
         }
     },
     "min_poptracker_version": "0.26.1",

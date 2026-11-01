@@ -2,61 +2,72 @@
     { 
         "name": "Cannon Unlock BoB",
         "type": "toggle",
-        "img": "img/varios/Cannon.png",
-        "codes": "bobc"
+        "img": "img/varios/Cannon_small.png",
+        "img_mods": "overlay|img/text/1.png",
+        "codes": "bobC"
     },
     {
         "name": "Cannon Unlock WF",
         "type": "toggle",
-        "img": "img/varios/Cannon.png",
-        "codes": "wfc"
+        "img": "img/varios/Cannon_small.png",
+        "img_mods": "overlay|img/text/2.png",
+        "codes": "wfC"
     },
 	{
         "name": "Cannon Unlock JRB",
         "type": "toggle",
-        "img": "img/varios/Cannon.png",
-        "codes": "jrbc"
+        "img": "img/varios/Cannon_small.png",
+        "img_mods": "overlay|img/text/3.png",
+
+        "codes": "jrbC"
     },
 	{
         "name": "Cannon Unlock CCM",
         "type": "toggle",
-        "img": "img/varios/Cannon.png",
-        "codes": "ccmc"
+        "img": "img/varios/Cannon_small.png",
+        "img_mods": "overlay|img/text/4.png",
+        "codes": "ccmC"
     },
 	{
         "name": "Cannon Unlock SSL",
         "type": "toggle",
-        "img": "img/varios/Cannon.png",
-        "codes": "sslc"
+        "img": "img/varios/Cannon_small.png",
+        "img_mods": "overlay|img/text/8.png",
+        "codes": "sslC"
     },
 	{
         "name": "Cannon Unlock SL",
         "type": "toggle",
-        "img": "img/varios/Cannon.png",
-        "codes": "slc"
+        "img": "img/varios/Cannon_small.png",
+        "img_mods": "overlay|img/text/L1.png,overlay|img/text/R0.png",
+        "codes": "slC"
     },
 	{
         "name": "Cannon Unlock WDW",
         "type": "toggle",
-        "img": "img/varios/Cannon.png",
-        "codes": "wdwc"
+        "img": "img/varios/Cannon_small.png",
+        "img_mods": "overlay|img/text/L1.png,overlay|img/text/R1.png",
+        "codes": "wdwC"
     },
 	{
         "name": "Cannon Unlock TTM",
         "type": "toggle",
-        "img": "img/varios/Cannon.png",
-        "codes": "ttmc"
+        "img": "img/varios/Cannon_small.png",
+        "img_mods": "overlay|img/text/L1.png,overlay|img/text/R2.png",
+        "codes": "ttmC"
     },
 	{
         "name": "Cannon Unlock THI",
         "type": "toggle",
-        "img": "img/varios/Cannon.png",
-        "codes": "thic"
+        "img": "img/varios/Cannon_small.png",
+        "img_mods": "overlay|img/text/L1.png,overlay|img/text/R4.png",
+        "codes": "thiC"
     },
 	{
         "name": "Cannon Unlock RR",
         "type": "toggle",
-        "img": "img/varios/Cannon.png",
-        "codes": "rrc"
+        "img": "img/varios/Cannon_small.png",
+        "img_mods": "overlay|img/text/L1.png,overlay|img/text/R5.png",
+        "codes": "rrC"
     }
 ]

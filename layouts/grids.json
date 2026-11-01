@@ -1,0 +1,266 @@
+{
+	"tracker_items": {
+        "type": "array",
+		"orientation": "vertical",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_size": "5",
+				"item_margin": "5,5",
+                "rows": [
+                    [
+						"powerstar",
+                        "basementkey",
+                        "topfloorkey"
+                    ],
+					[
+						"wc",
+						"vc",
+						"mc"
+					]
+                ]
+            }
+        ]
+    },
+	"tracker_moves":{
+		"type": "array",
+		"orientation": "vertical",
+		"content": [
+			{
+				"type": "itemgrid",
+                "item_margin": "5,5",
+                "item_size": "5",
+				"rows":[
+					[
+						"tj",
+						"lj",
+						"bf"
+						
+					],
+                    [
+                        "sf",
+						"wk",
+                        "dv"
+                    ],
+					[
+						"gp",
+						"kk",
+						"cl"
+						
+					],
+					[
+                        "lg"
+                    ]
+                    
+				]
+			}
+		]
+	},
+	"tracker_entrances":{
+		"type": "array",
+		"orientation": "vertical",
+		"content": [
+			{
+                "type": "itemgrid",
+                "item_margin": "5,5",
+                "item_size": "5",
+                "rows": [
+                    ["WF-P", "JRB-P", "CCM-P"],
+					["LLL-P", "SSL-P", "DDD-P"],
+                    ["SL-P", "WDW-P", "TTM-P"],
+					["THI-P", "TTC-P"]
+                ]
+            }
+		]
+	},
+	"tracker_cannons": {
+        "type": "array",
+        "orientation": "vertical",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "5,5",
+                "item_size": "5",
+                "rows": [
+							[
+								"bob",
+								"wfc",
+								"jrbc"
+							],
+							[
+								"ccmc",
+								"sslc",
+								"slc"
+							],
+							[
+								"wdwc",
+								"ttmc",
+								"thic"
+								
+							],
+							["rrc"]
+						]
+			}
+		]	
+	},
+    "horizontal_tracker_items": {
+        "type": "array",
+        "orientation": "vertical",
+        "content": [
+            {
+                "type": "itemgrid",
+				"margin": "100,0,0,10",
+                "item_size": "5",
+				"item_margin": "5,5",
+                "rows": [
+                    [
+						"powerstar",
+                        "basementkey",
+                        "topfloorkey"
+                    ],
+					[
+						"wc",
+						"vc",
+						"mc"
+					]
+					
+                ]
+            }
+        ]
+    },
+	"horizontal_tracker_moves":{
+		"type": "array",
+		"orientation": "vertical",
+		"content": [
+			{
+				"type": "itemgrid",
+				"margin": "20,0,0,10",
+				"item_margin": "5,5",
+                "item_size": "5",
+				"rows":[
+					[
+						"tj",
+						"lj",
+						"bf",
+						"sf",
+						"wk"
+					],
+					[
+						"dv",
+						"gp",
+						"kk",
+						"cl",
+						"lg"
+					]
+				]
+			}
+		]
+	},
+	"horizontal_tracker_entrances":{
+		"type": "array",
+		"orientation": "vertical",
+		"content": [
+			{
+                "type": "itemgrid",
+                "item_margin": "2,2",
+                "item_size": "5",
+                "rows": [
+                    ["WF-P", "JRB-P", "CCM-P", "LLL-P", "SSL-P", "DDD-P"],
+                    ["SL-P", "WDW-P", "TTM-P", "THI-P", "TTC-P"]
+                ]
+            }
+		]
+	},
+	"horizontal_tracker_cannons": {
+        "type": "array",
+        "orientation": "vertical",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "5,5",
+                "item_size": "5",
+                "rows": [
+							[
+								"bobc",
+								"wfc",
+								"jrbc",
+								"ccmc",
+								"sslc"
+							],
+							[
+								"slc",
+								"wdwc",
+								"ttmc",
+								"thic",
+								"rrc"
+							]
+						]
+			}
+		]
+	},
+	"tracker_doors": {
+		"type": "array",
+		"orientation": "vertical",
+		"content": [
+			{
+				"type": "itemgrid",
+				"item_margin": "5,5",
+				"item_size": "5",
+				"rows": [
+					["cost_bitdw", "cost_basement", "cost_floor2", "cost_final"],
+					["cost_mips1", "cost_mips2"]
+				]
+			}
+		]
+	},
+"tracker_settings":{
+		"type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "5,5",
+                "item_size": "5",
+                "rows": [
+							[
+								"goal",
+								"area",
+								"moves"
+							],
+							[
+								"lockedpaintings",
+								"caps"
+								
+							]
+						]
+			}
+		]
+	},
+
+
+
+	
+	"bob":{
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "item",
+				"orientation": "horizontal",
+				"item_margin": "5,5",
+				"item_size": "5",
+            "row":[
+							[
+								"bobP"
+							],
+							[
+								"bobb",
+								"bobc"
+							]
+            ]
+                
+                
+            }
+        ]
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "tracker_default": {
+        "type": "container",
+        "background": "#000000",
+        "content": {
+            "type": "array",
+            "orientation": "horizontal",
+            "content": [
+                {
+                    "type": "array",
+                    "orientation": "vertical",
+                    "content": [
+                        {
+                            "type": "group",
+                            "header": "Items",
+                            "content": {
+                                "type": "layout",
+                                "key": "horizontal_tracker_items"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Entrances",
+                            "content": {
+                                "type": "layout",
+                                "key": "horizontal_tracker_entrances"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "array",
+                    "orientation": "vertical",
+                    "content": [
+                        {
+                            "type": "group",
+                            "header": "Moves",
+                            "content": {
+                                "type": "layout",
+                                "key": "horizontal_tracker_moves"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Cannons",
+                            "content": {
+                                "type": "layout",
+                                "key": "horizontal_tracker_cannons"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "array",
+                    "orientation": "vertical",
+                    "content": [
+                        {
+                            "type": "group",
+                            "header": "Doors",
+                            "content": {
+                                "type": "layout",
+                                "key": "tracker_doors"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+        
+    },
+    "settings_popup":
+		{
+			"type": "array",
+			"orientation": "horizontal",
+			"content": [
+				{
+				"type": "group",
+				"header": "Settings",
+				"dock": "bottom",
+				"content": {
+				"type": "layout",
+				"key": "tracker_settings"
+					}	
+				}
+			]
+		}
+    
+}
+

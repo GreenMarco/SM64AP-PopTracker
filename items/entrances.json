@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Whomp's Fortress",
+        "type": "toggle",
+        "img": "img/paintings/Whomp's Fortress Painting.png",
+        "codes": "WF-P"
+    },
+    {
+        "name": "Jolly Roger Bay",
+        "type": "toggle",
+        "img": "img/paintings/Jolly Roger Bay Painting.png",
+        "codes": "JRB-P"
+    },
+    {
+        "name": "Cool, Cool Mountain",
+        "type": "toggle",
+        "img": "img/paintings/Cool, Cool Mountain Painting.png",
+        "codes": "CCM-P"
+    },
+    {
+        "name": "Lethal Lava Land",
+        "type": "toggle",
+        "img": "img/paintings/Lethal Lava Land Painting.png",
+        "codes": "LLL-P"
+    },
+    {
+        "name": "Shifting Sand Land",
+        "type": "toggle",
+        "img": "img/paintings/Shifting Sand Land Painting.png",
+        "codes": "SSL-P"
+    },
+    {
+        "name": "Dire, Dire Docks",
+        "type": "toggle",
+        "img": "img/paintings/Dire, Dire Docks Painting.png",
+        "codes": "DDD-P"
+    },
+    {
+        "name": "Snowman's Land",
+        "type": "toggle",
+        "img": "img/paintings/Snowman's Land Painting.png",
+        "codes": "SL-P"
+    },
+    {
+        "name": "Wet-Dry World",
+        "type": "toggle",
+        "img": "img/paintings/Wet-Dry World Painting.png",
+        "codes": "WDW-P"
+    },
+    {
+        "name": "Tall, Tall Mountain",
+        "type": "toggle",
+        "img": "img/paintings/Tall, Tall Mountain Painting.png",
+        "codes": "TTM-P"
+    },
+    {
+        "name": "Tiny-Huge Island",
+        "type": "toggle",
+        "img": "img/paintings/Tiny-Huge Island Painting.png",
+        "codes": "THI-P"
+    },
+    {
+        "name": "Tick Tock Clock",
+        "type": "toggle",
+        "img": "img/paintings/Tick Tock Clock Painting.png",
+        "codes": "TTC-P"
+    }
+]

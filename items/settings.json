@@ -40,5 +40,32 @@
         "type": "toggle",
 		"img": "img/paintings/Unknown Painting.png",
         "codes": "area"
-    }
+    },
+    {
+    "name": "Locked Paintings",
+    "type": "toggle",
+    "img": "img/paintings/Unknown Painting.png",
+    "codes": "lockedpaintings"
+    },
+    {
+    "name": "Goal",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    "codes": "goal",
+    "stages": [
+        {
+            "name": "Goal: Last Bowser Stage",
+            "img": "img/paintings/Bowser in the Sky Painting.png",
+            "codes": "goal_last"
+        },
+        {
+            "name": "Goal: All Bowser Stages",
+            "img": "img/paintings/Bowser in the Sky Painting.png",
+            "img_mods": "overlay|img/text/3.png",
+            "codes": "goal_all"
+        }
+    ]
+}
+
 ]

@@ -98,6 +98,21 @@ function onClear(slot_data)
             Tracker:FindObjectForCode("pinkbomb").Active = slot_data["Buddy_Checks"]~=0
         end
 
+        -- Estrellas necesarias para puertas y MIPS (items/doors.json)
+        local star_costs = {
+            ["FirstBowserDoorCost"] = "cost_bitdw",
+            ["BasementDoorCost"] = "cost_basement",
+            ["SecondFloorDoorCost"] = "cost_floor2",
+            ["StarsToFinish"] = "cost_final",
+            ["MIPS1Cost"] = "cost_mips1",
+            ["MIPS2Cost"] = "cost_mips2"
+        }
+        for key, code in pairs(star_costs) do
+            if slot_data[key] then
+                Tracker:FindObjectForCode(code).AcquiredCount = slot_data[key]
+            end
+        end
+
         if slot_data['MoveRandoVec'] then
             print("slot_data['MoveRandoVec']: " .. slot_data['MoveRandoVec'])
             if slot_data['MoveRandoVec'] == 0 then

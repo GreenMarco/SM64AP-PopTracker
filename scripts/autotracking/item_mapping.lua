@@ -29,4 +29,17 @@ ITEM_MAPPING = {
 	[3626211] = {"ttmc", "toggle"},
 	[3626212] = {"thic", "toggle"},
 	[3626214] = {"rrc", "toggle"},
+
+	-- Locked Paintings
+    [3626231] = {"WF-P", "toggle"},
+    [3626232] = {"JRB-P", "toggle"},
+    [3626233] = {"CCM-P", "toggle"},
+    [3626236] = {"LLL-P", "toggle"},
+    [3626237] = {"SSL-P", "toggle"},
+    [3626238] = {"DDD-P", "toggle"},
+    [3626239] = {"SL-P", "toggle"},
+    [3626240] = {"WDW-P", "toggle"},
+    [3626241] = {"TTM-P", "toggle"},
+    [3626242] = {"THI-P", "toggle"},
+    [3626243] = {"TTC-P", "toggle"},
 }

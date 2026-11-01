@@ -5,24 +5,26 @@
         "content": {
             "type": "dock",
             "content": [
-            {        
-                "type": "group",
-                "header": "Items",
-                "dock": "top",
-                "content": {
-                    "type": "layout",
-                    "key": "tracker_items"
+                {    
+                    "type": "group",
+                    "header": "Items",
+                    "dock": "top",
+                    "content": {
+                        "type": "layout",
+                        "key": "tracker_items"
+                    }
+                },
+                {
+                    "type": "group",
+                    "header": "Moves",
+                    "dock": "center",
+                    "margin": "0,0,3,0",
+                    "content": {
+                        "type": "layout",
+                        "key": "tracker_moves"
                 }
-            },
-            {
-                "type": "group",
-                "header": "Moves",
-                "dock": "top",
-                "content": {
-                    "type": "layout",
-                    "key": "tracker_moves"
                 }
-            }
+                
             ]
         }
     }
